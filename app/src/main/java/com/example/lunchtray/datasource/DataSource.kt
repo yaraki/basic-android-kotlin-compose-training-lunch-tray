@@ -46,7 +46,19 @@ object DataSource {
             description = "Seasonal vegetables, black beans, house spice blend, served with " +
                     "avocado and quick pickled onions",
             price = 5.50,
-        )
+        ),
+        EntreeItem(
+            name = "Spicy Black Bean Skillet",
+            description = "Seasonal vegetables, black beans, house spice blend, served with " +
+                    "avocado and quick pickled onions",
+            price = 5.50,
+        ),
+        EntreeItem(
+            name = "Spicy Black Bean Skillet",
+            description = "Seasonal vegetables, black beans, house spice blend, served with " +
+                    "avocado and quick pickled onions",
+            price = 5.50,
+        ),
     )
 
     val sideDishMenuItems = listOf(
